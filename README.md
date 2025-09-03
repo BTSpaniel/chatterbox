@@ -44,7 +44,7 @@ If you like the model but need to scale or tune it for higher accuracy, check ou
 git clone Somehow?
 cd chatterbox
 pip install -e .
-```
+
 We developed and tested Chatterbox on Python 3.11
 I Tested myself on 3.12 Running at Speedy Gonzales.
 
@@ -67,7 +67,7 @@ wav = model.generate(text, audio_prompt_path=AUDIO_PROMPT_PATH)
 ta.save("test-2.wav", wav, model.sr)
 ```
 See `example_tts.py` and `example_vc.py` for more examples.
-
+```
 # Supported Lanugage
 Currenlty only English.
 
