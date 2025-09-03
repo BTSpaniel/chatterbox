@@ -12,6 +12,7 @@ dependencies = [
     "s3tokenizer",
     "resemble-perth==1.0.1",
     "conformer==0.3.2",
+    "diffusers",
 ]
 
 [project.urls]
