@@ -39,21 +39,16 @@ If you like the model but need to scale or tune it for higher accuracy, check ou
 
 
 # Installation
-```shell
-pip install chatterbox-tts
-```
 
-Alternatively, you can install from source:
-```shell
-# conda create -yn chatterbox python=3.11
-# conda activate chatterbox
 
 git clone https://github.com/resemble-ai/chatterbox.git
 cd chatterbox
 pip install -e .
 ```
-We developed and tested Chatterbox on Python 3.11 on Debain 11 OS; the versions of the dependencies are pinned in `pyproject.toml` to ensure consistency. You can modify the code or dependencies in this installation mode.
+We developed and tested Chatterbox on Python 3.11
+I Tested myself on 3.12 Running at Speedy Gonzales.
 
+https://www.youtube.com/watch?v=XqJqZKL8uEU
 
 # Usage
 ```python
