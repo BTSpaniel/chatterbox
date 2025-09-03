@@ -16,7 +16,7 @@ Whether you're working on memes, videos, games, or AI agents, Chatterbox brings 
 
 If you like the model but need to scale or tune it for higher accuracy, check out our competitively priced TTS service (<a href="https://resemble.ai">link</a>). It delivers reliable performance with ultra-low latency of sub 200ms—ideal for production use in agents, applications, or interactive media.
 
-*Removed unneeded dependencies
+*Modernized Dependencies -No more Dependency Hell Bullshit all these devs support
 
 # Key Details
 - SoTA zeroshot TTS
