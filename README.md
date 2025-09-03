@@ -46,6 +46,7 @@ cd chatterbox
 pip install -e .
 
 I Tested myself on 3.12 Running
+Cuda 12.9
 
 https://www.youtube.com/watch?v=XqJqZKL8uEU
 
