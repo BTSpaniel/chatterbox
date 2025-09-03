@@ -41,7 +41,7 @@ If you like the model but need to scale or tune it for higher accuracy, check ou
 # Installation
 
 
-git clone https://github.com/resemble-ai/chatterbox.git
+git clone Somehow?
 cd chatterbox
 pip install -e .
 ```
