@@ -45,8 +45,7 @@ git clone Somehow?
 cd chatterbox
 pip install -e .
 
-We developed and tested Chatterbox on Python 3.11
-I Tested myself on 3.12 Running at Speedy Gonzales.
+I Tested myself on 3.12 Running
 
 https://www.youtube.com/watch?v=XqJqZKL8uEU
 
